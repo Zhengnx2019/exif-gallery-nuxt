@@ -71,7 +71,7 @@ Learn more about remote storage on <https://hub.nuxt.com/docs/getting-started/re
 
 ## Contribution
 
-Contributions are welcome! Feel free to open an issue to report a bug or submit a feature request via a pull request.
+Contributions are welcome. Feel free to open an issue to report a bug or submit a feature request via a pull request.
 
 ## Credits
 
